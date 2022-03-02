@@ -39,6 +39,7 @@ python app.py debug
 #####If the service is not working : [Reference](https://thepythoncorner.com/posts/2018-08-01-how-to-create-a-windows-service-in-python/)
 >There are a couple of known problems that can happen writing Windows Services in Python. If you have successfully installed the service but starting it you get an error, follow this iter to troubleshoot your service:
 
+
 >Check if Python is in your PATH variable. It MUST be there. To check this, just open a command prompt and try starting the python interpreter by typing “python”. If it starts, you are ok.
 
 >Be sure to have the file: (Note assuming you have python3.6 installed on your pc) 
